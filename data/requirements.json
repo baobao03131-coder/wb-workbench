@@ -1,0 +1,220 @@
+{
+  "project": "彩怡总AI新媒体",
+  "updated": "2026-09-10",
+  "items": [
+    {
+      "id": "R001",
+      "date": "2026-09-10",
+      "text": "向上吧妈妈小程序工作流搭建",
+      "source_time": "19:05",
+      "priority": "P0",
+      "deadline": "2026-09-11",
+      "status": "pending",
+      "steps": [
+        { "id": "R001-S1", "text": "摸清小程序现状（已上线？谁维护？后台权限）", "done": false },
+        { "id": "R001-S2", "text": "确认能否导入 99 课程", "done": false },
+        { "id": "R001-S3", "text": "搭内容工作流（素材进 → AI 内容库 → 多平台分发）", "done": false },
+        { "id": "R001-S4", "text": "出可跑通版本", "done": false }
+      ],
+      "timeline": [],
+      "note": "彩怡总点名先搞这条，一天内出东西"
+    },
+    {
+      "id": "R002",
+      "date": "2026-09-10",
+      "text": "跟阿锋一起看向上吧妈妈小程序",
+      "source_time": "19:03",
+      "priority": "P0",
+      "deadline": "2026-09-11",
+      "status": "pending",
+      "steps": [
+        { "id": "R002-S1", "text": "约时间（明天上午）", "done": false },
+        { "id": "R002-S2", "text": "出一份现状纪要 + 卡点清单", "done": false }
+      ],
+      "timeline": [],
+      "note": ""
+    },
+    {
+      "id": "R003",
+      "date": "2026-09-10",
+      "text": "99 课程尽快上架",
+      "source_time": "19:03",
+      "priority": "P0",
+      "deadline": "",
+      "status": "pending",
+      "steps": [
+        { "id": "R003-S1", "text": "价值点梳理", "done": false },
+        { "id": "R003-S2", "text": "海报文案", "done": false },
+        { "id": "R003-S3", "text": "海报设计", "done": false },
+        { "id": "R003-S4", "text": "小程序挂链接", "done": false },
+        { "id": "R003-S5", "text": "上架", "done": false }
+      ],
+      "timeline": [],
+      "note": "待补：99 课程大纲内容"
+    },
+    {
+      "id": "R004",
+      "date": "2026-09-10",
+      "text": "投喂 AI 做项目内容库，然后策划内容宣发",
+      "source_time": "19:03",
+      "priority": "P1",
+      "deadline": "",
+      "status": "pending",
+      "steps": [
+        { "id": "R004-S1", "text": "素材投喂 AI 建内容库", "done": false },
+        { "id": "R004-S2", "text": "策划宣发节奏", "done": false }
+      ],
+      "timeline": [],
+      "note": ""
+    },
+    {
+      "id": "R005",
+      "date": "2026-09-10",
+      "text": "公众号每天一篇，带贴图",
+      "source_time": "19:03",
+      "priority": "P1",
+      "deadline": "",
+      "status": "pending",
+      "steps": [],
+      "timeline": [],
+      "note": "日更节奏"
+    },
+    {
+      "id": "R006",
+      "date": "2026-09-10",
+      "text": "小红书同步分发",
+      "source_time": "19:03",
+      "priority": "P1",
+      "deadline": "",
+      "status": "pending",
+      "steps": [],
+      "timeline": [],
+      "note": "一鱼多吃：同素材换载体"
+    },
+    {
+      "id": "R007",
+      "date": "2026-09-10",
+      "text": "彩怡总视频内容策划",
+      "source_time": "19:03",
+      "priority": "P1",
+      "deadline": "",
+      "status": "pending",
+      "steps": [],
+      "timeline": [],
+      "note": ""
+    },
+    {
+      "id": "R008",
+      "date": "2026-09-10",
+      "text": "99 课程海报设计",
+      "source_time": "19:03",
+      "priority": "P1",
+      "deadline": "",
+      "status": "pending",
+      "steps": [],
+      "timeline": [],
+      "note": "等课程大纲"
+    },
+    {
+      "id": "R009",
+      "date": "2026-09-10",
+      "text": "用公众号、视频等内容塑造 99 课程价值",
+      "source_time": "19:03",
+      "priority": "P1",
+      "deadline": "",
+      "status": "pending",
+      "steps": [],
+      "timeline": [],
+      "note": "同样内容换不同载体反复用"
+    },
+    {
+      "id": "R010",
+      "date": "2026-09-10",
+      "text": "IP 定位：教育 + 认知 + AI + 新媒体前沿",
+      "source_time": "19:06",
+      "priority": "P1",
+      "deadline": "",
+      "status": "pending",
+      "steps": [],
+      "timeline": [],
+      "note": "不做浅科普，走有深度"
+    },
+    {
+      "id": "R011",
+      "date": "2026-09-10",
+      "text": "拆解对标博主：司马华鹏（逻辑）、李尚龙、董太太",
+      "source_time": "19:06",
+      "priority": "P1",
+      "deadline": "",
+      "status": "pending",
+      "steps": [],
+      "timeline": [],
+      "note": ""
+    },
+    {
+      "id": "R012",
+      "date": "2026-09-10",
+      "text": "加入朱家航，拆解四位博主的选题与内容风格，形成彩怡总 IP",
+      "source_time": "19:10",
+      "priority": "P1",
+      "deadline": "",
+      "status": "pending",
+      "steps": [
+        { "id": "R012-S1", "text": "拆解 4 人选题库", "done": false },
+        { "id": "R012-S2", "text": "拆解内容风格", "done": false },
+        { "id": "R012-S3", "text": "形成彩怡总 IP 内容体系", "done": false }
+      ],
+      "timeline": [],
+      "note": "朱家航是否＝传灯行动创始人朱佳航，待确认"
+    },
+    {
+      "id": "R013",
+      "date": "2026-09-10",
+      "text": "模仿她的结构，用今天的内容写一篇彩怡总角度的文章",
+      "source_time": "18:59",
+      "priority": "P2",
+      "deadline": "",
+      "status": "pending",
+      "steps": [],
+      "timeline": [],
+      "note": "待确认：她指谁、哪篇文章"
+    },
+    {
+      "id": "R014",
+      "date": "2026-09-10",
+      "text": "视频拍摄与剪辑 SOP",
+      "source_time": "21:26",
+      "priority": "P1",
+      "deadline": "",
+      "status": "pending",
+      "steps": [
+        { "id": "R014-S1", "text": "导入后先美颜（V1 硬要求）", "done": false },
+        { "id": "R014-S2", "text": "瘦脸（V2 硬要求）", "done": false },
+        { "id": "R014-S3", "text": "加一点口红（V3 硬要求）", "done": false },
+        { "id": "R014-S4", "text": "三样做完才开始剪辑（V4 顺序不可逆）", "done": false },
+        { "id": "R014-S5", "text": "片头 3 秒钩子（待确认）", "done": false },
+        { "id": "R014-S6", "text": "全程硬字幕（待确认）", "done": false },
+        { "id": "R014-S7", "text": "时长 60–90 秒（待确认）", "done": false },
+        { "id": "R014-S8", "text": "竖屏 9:16（待确认）", "done": false },
+        { "id": "R014-S9", "text": "统一封面模板（待确认）", "done": false },
+        { "id": "R014-S10", "text": "背景音乐压到人声 15% 以下（待确认）", "done": false },
+        { "id": "R014-S11", "text": "结尾统一引流语（待确认）", "done": false },
+        { "id": "R014-S12", "text": "一条口播拆三平台（待确认）", "done": false }
+      ],
+      "timeline": [],
+      "note": "V1–V4 是彩怡总原话，V5–V12 待她确认"
+    },
+    {
+      "id": "R015",
+      "date": "2026-09-10",
+      "text": "随时响应：彩怡总无时无刻会沟通工作",
+      "source_time": "18:59",
+      "priority": "长期",
+      "deadline": "",
+      "status": "doing",
+      "steps": [],
+      "timeline": [],
+      "note": "长期要求，已接受"
+    }
+  ]
+}
